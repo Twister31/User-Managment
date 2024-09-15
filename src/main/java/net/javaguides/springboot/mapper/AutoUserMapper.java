@@ -1,8 +1,9 @@
-package net.java.springboot.mapper;
+package net.javaguides.springboot.mapper;
 
-import net.java.springboot.dto.UserDto;
-import net.java.springboot.entity.User;
+import net.javaguides.springboot.dto.UserDto;
+import net.javaguides.springboot.entity.User;
 import org.mapstruct.Mapper;
+import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;
 
 @Mapper

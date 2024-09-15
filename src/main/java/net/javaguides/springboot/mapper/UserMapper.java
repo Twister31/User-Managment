@@ -1,7 +1,7 @@
-package net.java.springboot.mapper;
+package net.javaguides.springboot.mapper;
 
-import net.java.springboot.dto.UserDto;
-import net.java.springboot.entity.User;
+import net.javaguides.springboot.dto.UserDto;
+import net.javaguides.springboot.entity.User;
 
 public class UserMapper {
 

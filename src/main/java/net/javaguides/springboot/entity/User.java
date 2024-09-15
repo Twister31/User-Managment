@@ -1,4 +1,4 @@
-package net.java.springboot.entity;
+package net.javaguides.springboot.entity;
 
 import jakarta.annotation.Generated;
 import jakarta.persistence.*;
